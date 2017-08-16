@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="input_your_message">Nhập tin nhắn</string>
+    <string name="somethingiswritting">Đang viết tin nhắn</string>
+</resources>

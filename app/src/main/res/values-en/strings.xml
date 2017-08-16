@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="input_your_message">Input your message</string>
+    <string name="somethingiswritting">Something is writting</string>
+</resources>
