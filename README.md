@@ -16,3 +16,15 @@ io.sockets.on('connection', function(socket){
 
 	io.sockets.emit("emitDataFromServer",{thongtin:"fsdfdsf"}});
 });
+
+//package
+{
+	"name": "SERVER",
+	"version": "0.0.1",
+	"private": "true",
+	"dependencies": {
+		"express": "*",
+		"socket.io": "*"
+	}
+}
+
